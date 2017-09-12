@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609439819528",
+    "firebase_url": "https://onetime-170912.firebaseio.com",
+    "project_id": "onetime-170912",
+    "storage_bucket": "onetime-170912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609439819528:android:9f999aa80f2e1012",
+        "android_client_info": {
+          "package_name": "com.example.hi.onetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609439819528-4o6rclkr56qtlj6mnavhij81i3n52h1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hi.onetime",
+            "certificate_hash": "a32e9f449e3762bfd8803cbbfee38e497719ee99"
+          }
+        },
+        {
+          "client_id": "609439819528-040j00osrk2silvm175e7lgla0u5s1uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbSHYQe-xAWNDUil2vH-9YsN2S2hn3LOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609439819528-040j00osrk2silvm175e7lgla0u5s1uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

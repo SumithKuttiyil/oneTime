@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">oneTime</string>
+    <string name="title_activity_person_location_tracker">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="formatted_place_data">Name: %1$s\nAddress: %2$s\nPhone: %3$s\nWebsite: %4$s\nRating: %5$f\nId: %6$s\n</string>
+</resources>
